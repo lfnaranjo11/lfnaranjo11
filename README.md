@@ -9,6 +9,8 @@
 [![Leonel Naranjo's Github States](https://github-readme-stats.vercel.app/api?username=lfnaranjo11&show_icons=true&theme=dracula)](https://github.com/lfnaranjo11/github-readme-stats)
 
 
+
+![](https://komarev.com/ghpvc/?username=lfnaranjo11)
 <!--
 **lfnaranjo11/lfnaranjo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
