@@ -2,7 +2,7 @@
 
 - 👯 I’m looking to collaborate on open source projects.
 - I'm well versed in javascript, java, react.
-- I have proficient in elixir, typescript, C, python.
+- I have proficient in elixir, typescript, python.
 - 📫 How to reach me: https://www.linkedin.com/in/leonel-naranjo/
 - 🌱 I’m currently learning typescript, node.
 
